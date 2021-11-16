@@ -1,0 +1,19 @@
+h2{
+  border: solid 2px Purple;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 6px;
+}
+
+h1{
+  color: blue;
+  margin-left: 15px
+}
+
+#content{
+  background-color: grey;
+}
+
+.special {
+  background-color: yellow;
+  border: solid 1px red;
